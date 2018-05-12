@@ -1,0 +1,32 @@
+_repo: Types-of-Weltschmerz-in-German-Poetry_17364
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braun, Wilhelm Alfred
+    alias: Braun, W. A. (Wilhelm Alfred)
+    birthdate: 1873
+    gutenberg_agent_id: '7327'
+    url: http://www.gutenberg.org/2009/agents/7327
+description: Columbia University series of Germanic studies, vol. II, no. II
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2005-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Heine, Heinrich, 1797-1856'
+- !lcsh 'Pessimism'
+- !lcsh 'German poetry -- 19th century -- History and criticism'
+- !lcsh 'Lenau, Nicolaus, 1802-1850'
+- !lcsh 'Hölderlin, Friedrich, 1770-1843'
+tableOfContents: Introduction -- Hölderlin -- Lenau -- Heine -- Bibliography.
+title: Types of Weltschmerz in German Poetry
+url: http://www.gutenberg.org/ebooks/17364
